@@ -23,7 +23,8 @@
 
 <br>
 <br>
-<h2>status aleatorios que ninguem liga:</h>
+<h2>status aleatorios que ninguem liga:</h2>
+
 <div align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PocketGab&layout=donut-vertical">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=PocketGab&theme=synthwave&title_color=ff3068?">
