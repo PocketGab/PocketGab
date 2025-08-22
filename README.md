@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 	
 <div align="center">
 
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=purple&color=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=orange&color=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=blue&color=black)
 
 </div>
 <div align="center">
 	<div align="left">
- 	- Now i'm working as Intern on RM Sistemas using Java 
+ 	- Now i'm working as Intern on RM Sistemas using Typescript 
 	<br>
- 	- Currently learning Elixir, Typescript and Java
+ 	- Currently learning Typescript and Java
 	</div>
 </div>
 
