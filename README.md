@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gintaxias&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=donut&theme=midnight-purple&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pocketgab&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocketgab&layout=donut&theme=midnight-purple&hide_border=true" /> |
 | ------------- | ------------- |
 
 
